@@ -1,4 +1,4 @@
-# snn for classification
+# cnn for classification
 
 road sign recognition project
 
